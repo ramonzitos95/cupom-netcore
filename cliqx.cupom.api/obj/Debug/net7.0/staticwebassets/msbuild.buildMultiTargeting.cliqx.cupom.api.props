@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cliqx.cupom.api.props" />
+</Project>
